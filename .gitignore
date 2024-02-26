@@ -1,3 +1,5 @@
+*.db
+
 # Python
 __pycache__/
 *.pyc
@@ -7,3 +9,4 @@ venv/
 
 # Visual Studio Code
 .vscode/
+
